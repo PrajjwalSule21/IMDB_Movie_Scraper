@@ -4,9 +4,6 @@ This is a Python program which works as a Scraper for IMDB site, with the help o
 NOTE: Only give the url of sepcific genre, not a Home page of IMDB.
 
 
-## Demo
-
-[Scraper Demo Video](https://youtu.be/PEVarXmZIUk)
 
 
 ## How to use this scraper
