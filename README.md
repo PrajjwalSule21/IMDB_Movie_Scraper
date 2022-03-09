@@ -1,6 +1,7 @@
 # IMDB Scraper
 
 This is a Python program which works as a Scraper for IMDB site, with the help of this scraper you can easily scrape the movies data like their Name, Rating, Genre, Votes, Year, Certificate from IMDB website.
+NOTE: Only give the url of sepcific genre, not a Home page of IMDB.
 
 
 ## Demo
